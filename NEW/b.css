@@ -1,0 +1,75 @@
+body
+.container
+{
+    color:white;
+    height: 30px;
+    background-color: black;
+    font-size:26px;
+    box-shadow: 2px 3px 8px 5px rgb(100, 84, 84);
+}
+.bac{
+    background-color:  navy;
+    color: antiquewhite;
+    height: 280px;
+    border: 10px;
+    padding: 10px;
+    font-size: 19px;
+    border-block-color: green;
+    box-shadow: 12px 12px 12px 12px black;
+}
+.top-bottom {
+color: white;
+background-color: blue;
+list-style: none;
+}
+.top-bottom:hover{
+    color: greenyellow;
+    background-color: gray;
+}
+#bottom:hover{
+    color: greenyellow;
+}
+
+#own{
+    color: black;
+     border-inline-start-color: springgreen;
+    height: 10px;
+    width: 0%;
+    background-position-x: center;
+}
+
+.nav-link {
+    float: left;
+    height: 30px;
+    padding-left: 20px;
+    color: white;
+    border: 10px;
+    text-decoration: none;
+    box-shadow: 2px 3px 8px 5px rgb(100, 84, 84);
+    margin-top: initial;
+}
+.nav-link:hover {
+    color: black;
+    background-color: aqua;
+    
+}
+a {
+    color: white;
+    text-decoration: none
+}
+#navlimk {
+    font-size: 30px;
+}
+a:hover{
+    color: black;
+}
+.navbar {
+    list-style-type: none; /*removing the list form*/
+    background-color: red;
+}
+#bottom {
+    text-align: center;
+    color: red;
+     margin-top: 100px;
+}
+
